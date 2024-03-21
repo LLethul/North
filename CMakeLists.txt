@@ -10,4 +10,5 @@ add_executable(North ${SOURCES}
         include/token.h
         include/position.h
         include/util.h
+        src/token.cpp
 )
